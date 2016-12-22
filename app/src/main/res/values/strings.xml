@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSRocker</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="longitude_label">經度：</string>
+    <string name="latitude_label">緯度：</string>
+</resources>
